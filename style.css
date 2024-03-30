@@ -35,6 +35,7 @@ body h1{
   margin: 1px;
 }
 #func button{
+  background-color: #e3f2fd;
   height: 5vh;
   width: 15vh;
   border-radius: 20px;
